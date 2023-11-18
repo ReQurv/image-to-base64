@@ -1,6 +1,6 @@
 {
   "name": "@requrv/image-to-base64",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "description": "Convert any image file to Base64 data",
   "main": "index.js",
