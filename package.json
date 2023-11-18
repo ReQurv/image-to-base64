@@ -15,6 +15,9 @@
     "image"
   ],
   "author": "ReQurv <devops@requrv.io>",
+  "repository": {
+    "url": "https://github.com/ReQurv/image-to-base64"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.9.1",
