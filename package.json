@@ -1,6 +1,6 @@
 {
   "name": "@requrv/image-to-base64",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "type": "module",
   "description": "Convert any image file to Base64 data",
   "main": "build/index.js",
@@ -10,6 +10,19 @@
     "build": "rimraf ./build && tsc"
   },
   "keywords": [
+    "node",
+    "nodejs",
+    "browser",
+    "module convert base64 nodejs",
+    "image2base64",
+    "image to base64",
+    "convert image to base64",
+    "convert-image-base64",
+    "base64 convert image",
+    "loader",
+    "img",
+    "img to base64",
+    "img2base64",
     "base64",
     "image",
     "convert"
